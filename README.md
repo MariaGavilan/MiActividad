@@ -1,6 +1,6 @@
 (Espacio para los badges de MATLAB Online y File Exchange)
 
-# (Adicione aquí el Titulo de la Actividad de Enseñanza)
+# Mi Actividad
 
 ## Autor
 Adicione su nombre y afiliación
