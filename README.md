@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MariaGavilan/MiActividad)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MariaGavilan/MiActividad&file=https://github.com/MariaGavilan/MiActividad/blob/main/MiActividadEnsenanza2024.mlx&focus=true)
 
 # Mi Actividad
 
